@@ -1,0 +1,15 @@
+D:\All\Education\MDT211\TestIdealCamp\obj\Debug\net6.0\TestIdealCamp.csproj.AssemblyReference.cache
+D:\All\Education\MDT211\TestIdealCamp\obj\Debug\net6.0\TestIdealCamp.GeneratedMSBuildEditorConfig.editorconfig
+D:\All\Education\MDT211\TestIdealCamp\obj\Debug\net6.0\TestIdealCamp.AssemblyInfoInputs.cache
+D:\All\Education\MDT211\TestIdealCamp\obj\Debug\net6.0\TestIdealCamp.AssemblyInfo.cs
+D:\All\Education\MDT211\TestIdealCamp\obj\Debug\net6.0\TestIdealCamp.csproj.CoreCompileInputs.cache
+D:\All\Education\MDT211\TestIdealCamp\bin\Debug\net6.0\TestIdealCamp.exe
+D:\All\Education\MDT211\TestIdealCamp\bin\Debug\net6.0\TestIdealCamp.deps.json
+D:\All\Education\MDT211\TestIdealCamp\bin\Debug\net6.0\TestIdealCamp.runtimeconfig.json
+D:\All\Education\MDT211\TestIdealCamp\bin\Debug\net6.0\TestIdealCamp.dll
+D:\All\Education\MDT211\TestIdealCamp\bin\Debug\net6.0\TestIdealCamp.pdb
+D:\All\Education\MDT211\TestIdealCamp\obj\Debug\net6.0\TestIdealCamp.dll
+D:\All\Education\MDT211\TestIdealCamp\obj\Debug\net6.0\refint\TestIdealCamp.dll
+D:\All\Education\MDT211\TestIdealCamp\obj\Debug\net6.0\TestIdealCamp.pdb
+D:\All\Education\MDT211\TestIdealCamp\obj\Debug\net6.0\TestIdealCamp.genruntimeconfig.cache
+D:\All\Education\MDT211\TestIdealCamp\obj\Debug\net6.0\ref\TestIdealCamp.dll
